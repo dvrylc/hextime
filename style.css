@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  color: white;
+  
+  background-color: white;
+  transition: background-color 1s;
+}
+
+p {
+  margin: 0;
+}
+
+.labels {
+  width: 100%;
+  margin-top: 30vh;
+}
+
+#time {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 12em;
+}
+
+#hex {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 400;
+  font-size: 2em;
+}
